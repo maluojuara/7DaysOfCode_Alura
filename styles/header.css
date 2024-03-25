@@ -1,0 +1,54 @@
+.navbar{
+    display: flex;
+    padding: 1.6rem 7rem;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.navbar__logo{
+    display: flex;
+    text-decoration: none;
+    gap: 0.4rem;
+    margin-right: 7.5rem;
+}
+
+.navbar__logo__img{
+    width: 1.6em;
+}
+
+.navbar__logo__text{
+    color: var(--dark-grey);
+    font-size: 18px;
+}
+
+.navbar__pages{
+    display: flex;
+    gap: 3em;
+}
+
+.navbar__pages__link{
+    color: var(--light-grey);
+    text-decoration: none;
+}
+
+.navbar__buttons{
+    display: flex;
+    gap: 0.5rem;
+    margin-left: 24rem;
+}
+
+.navbar__buttons__login, .navbar__buttons__signup{
+    text-decoration: none;
+    padding: 0.65rem 1.13rem;
+}
+
+.navbar__buttons__login{
+    color: var(--light-grey);
+}
+
+.navbar__buttons__signup{
+    color: white;
+    background-color: var(--red-wine);
+    border-radius: 6px;
+}
