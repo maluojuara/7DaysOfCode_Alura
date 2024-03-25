@@ -1,0 +1,20 @@
+.content{
+    text-align: center;
+    padding: 6rem 30rem;
+}
+
+.content__minititle{
+    color: var(--red-wine);
+    font-weight: 600;
+}
+
+.content__main__title{
+    font-size: 48px;
+    color: var(--dark-blue);
+}
+
+.content__text{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--light-grey);
+}
