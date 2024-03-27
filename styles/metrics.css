@@ -20,6 +20,5 @@
 }
 
 .metrics__text{
-    font-weight: 400;
-    color: var(--light-grey);
+    font-size: 16px;
 }

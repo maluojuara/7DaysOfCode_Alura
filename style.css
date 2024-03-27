@@ -2,6 +2,7 @@
 @import url("styles/header.css");
 @import url("styles/content.css");
 @import url("styles/metrics.css");
+@import url("styles/talents.css");
 
 
 :root{
@@ -9,6 +10,7 @@
     --dark-grey: #3A404E;
     --light-grey: #667085;
     --red-wine: #8E2424;
+    --red-wine-transparency: rgba(142, 36, 36, 0.05);
     --dark-blue: #101828;
 }
 

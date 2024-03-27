@@ -1,0 +1,28 @@
+.talents{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 6rem 5rem 0 5rem;
+}
+
+.talents__minititle{
+    font-size: 14px;
+    color: var(--red-wine);
+    background-color: var(--red-wine-transparency);
+    border-radius: 24px;
+    padding: 0.25rem 0.75rem;
+    width: 7rem;
+    margin: 0 auto;
+}
+
+.talents__title{
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--dark-blue);
+    margin-top: 1rem;
+    margin-bottom: 1.25rem;
+}
+
+.talents__img{
+    padding: 3rem 7rem;
+}

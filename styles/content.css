@@ -13,9 +13,10 @@
     color: var(--dark-blue);
 }
 
-.content__text{
+.basic__text{
     font-size: 20px;
     font-weight: 400;
     color: var(--light-grey);
+    margin: 0;
 }
 
