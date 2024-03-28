@@ -1,0 +1,18 @@
+.testimonial{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--red-wine-transparency);
+    border-radius: 24px;
+    align-items: center;
+    justify-content: center;
+}
+
+.testimonial__title{
+    color: var(--red-wine);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.testimonial__text{
+    font-size: 36px;
+}
